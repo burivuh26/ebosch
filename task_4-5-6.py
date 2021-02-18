@@ -20,4 +20,4 @@ class Xerox(Orgtech):
     def copy(self):
         pass
 
-
+## работа еще не окончена
